@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Yeon+Sung');
+body{
+    font-family:'Yeon Sung',cursive;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+.content{
+    position: absolute;
+    left: 40%;
+    top: 40%;
+    padding: 0 25px;
+    background-color: rgba(216, 194, 199, 0.65);
+    color:black;
+    border-radius: 5px;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    height: 20px;
+    padding: 10px 0 20px 0;
+    font-size: 1.2em;
+    background-color: rgba(220, 20, 60, 0.651);
+}
+b{
+    text-transform: uppercase;
+    color: black;
+    font-weight: 800;
+}
